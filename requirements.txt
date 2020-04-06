@@ -1,0 +1,11 @@
+scikit-allel
+tsinfer
+tskit
+msprime
+numpy
+matplotlib
+pysvg
+scipy
+seaborn
+pandas
+jupyter
